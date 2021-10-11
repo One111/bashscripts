@@ -1,1 +1,2 @@
+# put copied image to file with current date
 xclip -selection clipboard -t image/png -o > ~/Pictures/`date '+%F_%H:%M:%S'`.png
