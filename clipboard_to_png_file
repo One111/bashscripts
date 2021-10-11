@@ -1,0 +1,1 @@
+xclip -selection clipboard -t image/png -o > ~/Pictures/`date '+%F_%H:%M:%S'`.png
